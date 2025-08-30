@@ -1,0 +1,10 @@
+Date,Product,Category,Units_Sold,Stock_Available
+2025-08-01,Soap,Personal Care,50,150
+2025-08-01,Shampoo,Personal Care,30,70
+2025-08-01,Biscuits,Food,80,120
+2025-08-02,Soap,Personal Care,60,90
+2025-08-02,Shampoo,Personal Care,25,45
+2025-08-02,Biscuits,Food,100,20
+2025-08-03,Soap,Personal Care,70,20
+2025-08-03,Shampoo,Personal Care,40,5
+2025-08-03,Biscuits,Food,120,0
